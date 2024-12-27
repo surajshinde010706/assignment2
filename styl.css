@@ -1,0 +1,534 @@
+*{
+    margin-top: 0px;
+}
+.home{
+width: 1400px;
+height: 100000px;
+align-items: center;
+margin-top: 50px;
+margin-left: 200px;
+
+}
+.creatmain{
+height: 1000px;
+width: 340px;
+}
+.creatdiv{
+background-color: rgb(255, 243, 226);
+height: 485px;
+width: 340px;
+border: 1px solid rgb(255, 243, 226);
+border-radius: 10px;
+}
+.paracreat{
+font-size: 45px;
+height: 250px;
+width: 240px;
+padding: 10px;
+margin-left: 55px;
+line-height: 45px;
+}
+.writediv{
+height: 490px;
+width: 340px;
+margin-top: 30px;
+background-color: rgb(240, 190, 98);
+border: 1px solid rgb(240, 190, 98);
+border-radius: 10px;
+}
+.forflexing{
+display: flex; 
+flex-direction: row;
+}
+.socialmaindiv{
+margin-left: 30px;
+width: 1030px;
+height: 1000px;
+}
+.socialmediadiv{
+height: 735px;
+width: 1030px;
+display: flex;
+flex-direction: row;
+}
+.growdivmain{
+height: 255px;
+width: 1030px;
+margin-top: 10px;
+display: flex;
+flex-direction: row;
+}
+.managemaindiv{
+height: 715px;
+width: 660px;
+}
+.schedulemaindiv{
+height: 715px;
+width: 340px;
+margin-left: 30px;
+background-color: rgb(229, 213, 244);
+border: 1px solid rgb(229, 213, 244);
+border-radius: 10px;
+}
+.aidiv{
+width: 660px;
+height: 393px;
+background-color: rgb(151, 48, 247);
+border: 1px solid rgb(151, 48, 247);
+border-radius: 10px;
+}
+.maintainmain{
+width: 660px;
+height: 292px;
+margin-top: 30px;
+display: flex;
+flex-direction: row;
+}
+.managemultiplediv{
+height: 292px;
+width: 315px;
+background-color: ghostwhite;
+border: 1px solid ghostwhite;
+border-radius: 10px;
+}
+.maintainconsistantdiv{
+height: 292px;
+width: 315px;
+margin-left: 30px;
+background-color: rgb(240, 190, 98);
+border: 1px solid rgb(240, 190, 98);
+border-radius: 10px;
+}
+.fasterdiv{
+height: 257px;
+width: 315px;
+background-color: whitesmoke;
+border: 1px solid whitesmoke;
+border-radius: 10px;
+}
+.growfollowersdiv{
+width: 685px;
+height: 257px;
+background-color: rgb(151, 48, 247);
+border: 1px solid rgb(151, 48, 247);
+border-radius: 10px;
+margin-left: 30px;
+display: flex;
+flex-direction: row;
+}
+.button1{
+height: 100px;
+width: 400px;
+margin-top: 20px;
+margin-left: 60px;
+}  
+.writepara{
+height: 170px;
+width: 250px;
+padding-top: 20px;
+margin-left: 20px;
+line-height: 45px;
+}
+.writeimg{
+margin-top: 35px;
+margin-left: 50px;
+}
+.parat{
+font-size: 50px;
+font-weight: 550;
+row-gap: 5px;
+}
+.cre{
+font-weight: 550;
+margin-top: 50px;
+}
+.socialmedia10x{
+height: 50px;
+width: 540px;
+padding-left: 80px;
+padding-top: 50px;
+
+}
+.socialmedia10xpara{
+font-size: 70px;
+font-weight: 520;
+color: white;
+text-align: center;
+}
+.socialmedia10x2{
+height: 100px;
+width: 660px;
+align-self: center;
+}
+.socialmedia10xpara2{
+font-size: 70px;
+font-weight: 520;
+color: white;
+margin-top: 20px;
+}
+.starimgdiv{
+height: 150px;
+width: 660px;
+margin-top: 140px;
+}
+.imgstar{
+    margin-left: 210px;
+    }
+.socialmedia10para3{
+font-weight: 500;
+}
+.schedulepara{
+height: 100px;
+width: 310px;
+}
+.schedulepara1{
+font-size: 40px;
+font-weight: 800;
+margin-left: 40px;
+margin-top: 40px;
+line-height: 35px;
+}
+.besttimeimg{
+overflow: hidden;
+height: 400px;
+width: 300px;
+margin-top: 10px;
+margin-left: 40px;
+}
+.besttimeimgclass{
+height: 400px;
+ width: 500px;
+}
+.managemultipledivimg{
+height: 100px;
+width: 280px;
+margin-top: 20px;
+margin-left: 35px;
+overflow: hidden;
+}
+.managemultidivpara{
+height: 155px;
+width: 265px;
+margin-left: 40px;
+}
+.managemultidivparatext{
+font-size: 40px;
+font-weight: 550;
+line-height: 35px;
+}
+.besttimeparadowndiv{
+height: 140px;
+width: 240px;
+margin-left: 40px;
+}
+.besttimeparadown{
+font-size: 25px;
+font-weight: 300;
+line-height: 25px;
+margin-top: 20px;
+
+}
+.postingschedulepara{
+height: 150px;
+width: 265px;
+margin-left: 30px;
+margin-top: 25px;
+}
+.postingscheduleparatext{
+font-size: 40px;
+font-weight: 550;
+line-height: 35px;
+line-height: 35px;
+}
+.augimgdiv{
+height: 110px;
+width: 315px;  
+margin-top: 10px;
+margin-left: 25px;
+overflow: hidden;  
+}
+.fasterhidding{
+height: 80px;
+width: 265px;
+margin-top: 20px;
+margin-left: 20px;
+}
+.fasterpara{
+height: 40px;
+width: 265px;
+}
+.formargintop{
+margin-top: 20px;
+}
+.fasterimg{
+height: 85px;
+width: 315px;
+margin-left: 60px;
+margin-top: 20px;
+}
+.growimg{
+height: 240px;
+width: 250px;
+margin-top: 20px;
+margin-left: 30px;
+}
+.growpara{
+height: 260px;
+width: 405px;
+}
+.growh2{
+line-height: 40px;
+color: white;
+margin-top: 80px;
+margin-left: 30px;
+}
+.ooo{
+    height: 230px;
+}
+@media screen and (max-width: 500px){
+    .forflexing{
+        display: flex; 
+        flex-direction: column;
+        }
+        .creatmain{
+            height: 1000px;
+            width: 460px;
+            order: 2;
+            margin-left: -5px;
+            }
+            .socialmaindiv{
+                width: 1030px;
+                height: 2620px;
+                order: 1;
+                margin-left: -7px;
+                }
+                .socialmediadiv{
+                    height: 1825px;
+                    width: 1030px;
+                    display: flex;
+                    flex-direction: column;
+                    }
+                    .maintainmain{
+                        width: 460px;
+                        height: 692px;
+                        margin-top: 30px;
+                        display: flex;
+                        flex-direction: column;
+                        }
+                        .schedulemaindiv{
+                            height: 715px;
+                            width: 463px;
+                            background-color: rgb(229, 213, 244);
+                            border: 1px solid rgb(229, 213, 244);
+                            border-radius: 10px;
+                            margin-left: -10px;
+                            }
+                            .managemaindiv{
+                                height: 1075px;
+                                width: 460px;
+                                }
+                                .maintainconsistantdiv{
+                                    height: 292px;
+                                    width: 460px;
+                                    background-color: rgb(240, 190, 98);
+                                    border: 1px solid rgb(240, 190, 98);
+                                    border-radius: 10px;
+                                    margin-left: -3px;
+                                    margin-top: 30px;
+                                    }
+                                    .managemultiplediv{
+                                        height: 292px;
+                                        width: 460px;
+                                        background-color: ghostwhite;
+                                        border: 1px solid ghostwhite;
+                                        border-radius: 10px;
+                                        }
+                                        .managemultipledivimg{
+                                            height: 100px;
+                                            width: 400px;
+                                            margin-top: 20px;
+                                            margin-left: 35px;
+                                            overflow: hidden;
+                                            }
+                                            .aidiv{
+                                                width: 460px;
+                                                height: 393px;
+                                                background-color: rgb(151, 48, 247);
+                                                border: 1px solid rgb(151, 48, 247);
+                                                border-radius: 10px;
+                                                }
+                                                .socialmedia10xpara{
+                                                    font-size: 50px;
+                                                    font-weight: 520;
+                                                    color: white;
+                                                    text-align: center;
+                                                    }
+                                                    .socialmedia10x{
+                                                        height: 90px;
+                                                        width: 300px;
+                                                        padding-left: 80px;
+                                                        padding-top: 50px;
+                                                        
+                                                        }
+                                                        .starimgdiv{
+                                                            height: 150px;
+                                                            width: 450px;
+                                                            margin-top: 120px;
+                                                            }
+                                                            .imgstar{
+                                                                margin-left: 110px;
+                                                                }
+                                                                .socialmedia10para3{
+                                                                    font-weight: 500;
+                                                                    text-align: center;
+                                                                    }
+                                                                    .managemultidivpara{
+                                                                        height: 155px;
+                                                                        width: 405px;
+                                                                        margin-left: 40px;
+                                                                        }
+                                                                        .managemultidivparatext{
+                                                                            font-size: 35px;
+                                                                            font-weight: 550;
+                                                                            line-height: 40px;
+                                                                            margin-top: 30px;
+                                                                            }
+                                                                            .postingschedulepara{
+                                                                                height: 90px;
+                                                                                width: 405px;
+                                                                                margin-left: 30px;
+                                                                                margin-top: 25px;
+                                                                                }
+                                                                                .augimgdiv{
+                                                                                    height: 170px;
+                                                                                    width: 315px;  
+                                                                                    margin-top: 10px;
+                                                                                    margin-left: 25px;
+                                                                                    overflow: hidden;  
+                                                                                    }
+                                                                                    .schedulepara{
+                                                                                        height: 60px;
+                                                                                        width: 450px;
+                                                                                        }
+                                                                                        .schedulepara1{
+                                                                                            font-size: 35px;
+                                                                                            font-weight: 800;
+                                                                                            margin-left: 40px;
+                                                                                            margin-top: 40px;
+                                                                                            line-height: 35px;
+                                                                                            }
+                                                                                            .besttimeimg{
+                                                                                                overflow: hidden;
+                                                                                                height: 400px;
+                                                                                                width: 430px;
+                                                                                                margin-top: 10px;
+                                                                                                margin-left: 40px;
+                                                                                                }
+                                                                                                .besttimeimgclass{
+                                                                                                    height: 400px;
+                                                                                                    width: 410px;
+                                                                                                    }
+                                                                                                    .besttimeparadowndiv{
+                                                                                                        height: 140px;
+                                                                                                        width: 340px;
+                                                                                                        margin-left: 40px;
+                                                                                                        }
+                                                                                                        .besttimeparadown{
+                                                                                                            font-size: 25px;
+                                                                                                            font-weight: 400;
+                                                                                                            line-height: 25px;
+                                                                                                            margin-top: 20px;
+                                                                                                            text-align: center;
+                                                                                                            }
+                                                                                                            .growdivmain{
+                                                                                                                height: 255px;
+                                                                                                                width: 1030px;
+                                                                                                                margin-top: 10px;
+                                                                                                                display: flex;
+                                                                                                                flex-direction: column;
+                                                                                                                }
+                                                                                                                .growfollowersdiv{
+                                                                                                                    width: 685px;
+                                                                                                                    height: 257px;
+                                                                                                                    background-color: rgb(151, 48, 247);
+                                                                                                                    border: 1px solid rgb(151, 48, 247);
+                                                                                                                    border-radius: 10px;
+                                                                                                                    display: flex;
+                                                                                                                    flex-direction: row;
+                                                                                                                    margin-left: -10px;
+                                                                                                                    }
+                                                                                                                    .fasterdiv{
+                                                                                                                        height: 257px;
+                                                                                                                        width: 460px;
+                                                                                                                        background-color: whitesmoke;
+                                                                                                                        border: 1px solid whitesmoke;
+                                                                                                                        border-radius: 10px;
+                                                                                                                        }
+                                                                                                                        .growfollowersdiv{
+                                                                                                                            width: 460px;
+                                                                                                                            height: 457px;
+                                                                                                                            background-color: rgb(151, 48, 247);
+                                                                                                                            border: 1px solid rgb(151, 48, 247);
+                                                                                                                            border-radius: 10px;
+                                                                                                                            margin-left: -10px;
+                                                                                                                            display: flex;
+                                                                                                                            flex-direction: column;
+                                                                                                                            margin-top: 30px;
+                                                                                                                            }
+                                                                                                                            .growimg{
+                                                                                                                                height: 240px;
+                                                                                                                                width: 250px;
+                                                                                                                               margin-left: 90px;
+                                                                                                                               margin-top: 30px;
+                                                                                                                                }
+                                                                                                                                .growpara{
+                                                                                                                                height: 160px;
+                                                                                                                                width: 360px;
+                                                                                                                                text-align: center;
+                                                                                                                                margin-bottom: 90px;
+                                                                                                                                margin-left: 20px;
+                                                                                                                                }
+                                                                                                                                .creatdiv{
+                                                                                                                                    background-color: rgb(255, 243, 226);
+                                                                                                                                    height: 325px;
+                                                                                                                                    width: 460px;
+                                                                                                                                    border: 1px solid rgb(255, 243, 226);
+                                                                                                                                    border-radius: 10px;
+                                                                                                                                    }
+                                                                                                                                    .paracreat{
+                                                                                                                                        font-size: 45px;
+                                                                                                                                        height: 150px;
+                                                                                                                                        width: 390px;
+                                                                                                                                        padding: 10px;
+                                                                                                                                        margin-left: 35px;
+                                                                                                                                        line-height: 45px;
+                                                                                                                                        }
+                                                                                                                                        .writediv{
+                                                                                                                                        height: 490px;
+                                                                                                                                        width: 460px;
+                                                                                                                                        margin-top: 30px;
+                                                                                                                                        background-color: rgb(240, 190, 98);
+                                                                                                                                        border: 1px solid rgb(240, 190, 98);
+                                                                                                                                        border-radius: 10px;
+                                                                                                                                        }
+                                                                                                                                        .writepara{
+                                                                                                                                            height: 120px;
+                                                                                                                                            width: 390px;
+                                                                                                                                            padding-top: 20px;
+                                                                                                                                            margin-left: 20px;
+                                                                                                                                            line-height: 45px;
+                                                                                                                                            }
+                                                                                                                                            .writeimg{
+                                                                                                                                            margin-top: 15px;
+                                                                                                                                            margin-left: 30px;
+                                                                                                                                            }
+                                                                                                                                            .parat{
+                                                                                                                                                font-size: 50px;
+                                                                                                                                                font-weight: 350;
+                                                                                                                                                row-gap: 5px;
+                                                                                                                                                }
+                                                                                                                                                .ooo{
+                                                                                                                                                    height: 320px;
+                                                                                                                                                    width: 350px;
+                                                                                                                                                }
+}
